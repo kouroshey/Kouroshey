@@ -1,6 +1,6 @@
 ### Hi. Welcome to my profile :)
-⚡ I`m Kourosh Eidivandi. <br>
-🌱 I’m currently learning React JS and basic topics of Javascript
+⚡ I`m Kourosh Eidivandi. <br/>
+🌱 I’m currently learning React JS and basic topics of Javascript <br/>
 💬 Ask me about teamWork and open-source projects
 
 
