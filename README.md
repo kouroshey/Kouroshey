@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi. Welcome to my profile :)
+⚡ I`m Kourosh Eidivandi.
+🌱 I’m currently learning React JS and basic topics of Javascript
+💬 Ask me about teamWork and open-source projects
+
 
 <!--
 **Kouroshjs/Kouroshjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
