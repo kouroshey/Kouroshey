@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Github+Profile;Second+line+of+text)](https://git.io/typing-svg)
+
+
+
 ### Hi. Welcome to my profile :)
 ⚡ I`m Kourosh Eidivandi. <br/>
 🌱 I’m currently learning React JS and basic topics of Javascript <br/>
