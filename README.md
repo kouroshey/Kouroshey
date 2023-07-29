@@ -24,7 +24,7 @@
   ## 📫 GitHub Stats
 | General         | Most Used Languages |
 |--------------|:-----:|
-| <a href="https://github.com/lertsoft/lertsoft"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lertsoft&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Lertsoft's github stats" /></a>  |   <a href="https://github.com/lertsoft/lertsoft"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lertsoft&langs_count=5" /></a> |        
+| <a href="https://github.com/kouroshjs/kouroshjs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kouroshjs&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Kourosh's github stats" /></a>  |   <a href="https://github.com/Kouroshjs/kouroshjs"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouroshjs&langs_count=5" /></a> |        
 <!--
 **Kouroshjs/Kouroshjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
