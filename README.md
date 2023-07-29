@@ -15,10 +15,9 @@
 
 **Skill & Tools**
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,bash,cpp,perl,py,r,react,solidity,ts" />
-  <img src="https://skillicons.dev/icons?i=wasm,angular,d3,electron,express,nextjs,nodejs,nuxtjs,redux,sass,styledcomponents,vite,vue,webpack" />
-  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,firebase,git,github,linux,md,bsd,mongodb,mysql,postgres,raspberrypi" />
-  <img src="https://skillicons.dev/icons?i=au,ai,ps,pr,bootstrap,figma,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,firebase" />
+  <img src="https://skillicons.dev/icons?i=redux,sass,vite,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=au,ai,ps,pr,figma" />
   </p>
 
 
