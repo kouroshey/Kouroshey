@@ -13,9 +13,14 @@
 
 **Skill & Tools**
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,firebase" />
+  <img src="https://skillicons.dev/icons?i=html" />
+    <br/>
+  <img src="https://skillicons.dev/icons?i=js,css" />
+    <br/>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,firebase" />
     <br/>
   <img src="https://skillicons.dev/icons?i=redux,sass,vite,tailwind,git,github" />
+    <br/>
   </p>
 
 
