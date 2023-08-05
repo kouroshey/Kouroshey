@@ -15,7 +15,6 @@
   <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,firebase" />
   <img src="https://skillicons.dev/icons?i=redux,sass,vite,tailwind,git,github" />
-  <img src="https://skillicons.dev/icons?i=au,ai,ps,pr,figma" />
   </p>
 
 
