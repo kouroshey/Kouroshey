@@ -14,6 +14,7 @@
 **Skill & Tools**
   <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,firebase" />
+    <br/>
   <img src="https://skillicons.dev/icons?i=redux,sass,vite,tailwind,git,github" />
   </p>
 
