@@ -7,8 +7,8 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/kouroshmowri) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kouroshjs) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/kouroshey) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kouroshey) 
 
 
 **Skill & Tools**
@@ -27,7 +27,7 @@
   ## 📫 GitHub Stats
 | General         | Most Used Languages |
 |--------------|:-----:|
-| <a href="https://github.com/kouroshjs/kouroshjs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kouroshjs&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Kourosh's github stats" /></a>  |   <a href="https://github.com/Kouroshjs/kouroshjs"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouroshjs&langs_count=5" /></a> |        
+| <a href="https://github.com/kouroshjs/kouroshey"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kouroshjs&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Kourosh's github stats" /></a>  |   <a href="https://github.com/Kouroshjs/kouroshey"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouroshjs&langs_count=5" /></a> |        
 <!--
 **Kouroshjs/Kouroshjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
