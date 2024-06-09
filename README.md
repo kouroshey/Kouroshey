@@ -16,13 +16,13 @@
   <p align="center">
   <img src="https://skillicons.dev/icons?i=html" />
     <br/>
-  <img src="https://skillicons.dev/icons?i=sass,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts" />
     <br/>
-  <img src="https://skillicons.dev/icons?i=bootstrap,js,ts" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular" />
     <br/>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,redux,angular" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass,css" />
     <br/>
-  <img src="https://skillicons.dev/icons?i=firebase,vite,git" />
+  <img src="https://skillicons.dev/icons?i=,redux,vite,git" />
     <br/>
   <img src="https://skillicons.dev/icons?i=github,aws" />
     <br/>
