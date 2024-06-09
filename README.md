@@ -16,9 +16,11 @@
   <p align="center">
   <img src="https://skillicons.dev/icons?i=html" />
     <br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,css" />
+  <img src="https://skillicons.dev/icons?i=sass,css" />
     <br/>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,redux,angular,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,js,ts," />
+    <br/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,redux,angular" />
     <br/>
   <img src="https://skillicons.dev/icons?i=firebase,vite,git,github,aws,supabase,vscode" />
     <br/>
