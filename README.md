@@ -22,7 +22,11 @@
     <br/>
   <img src="https://skillicons.dev/icons?i=react,tailwind,redux,angular" />
     <br/>
-  <img src="https://skillicons.dev/icons?i=firebase,vite,git,github,aws,supabase,vscode" />
+  <img src="https://skillicons.dev/icons?i=firebase,vite,git" />
+    <br/>
+  <img src="https://skillicons.dev/icons?i=github,aws" />
+    <br/>
+  <img src="https://skillicons.dev/icons?i=vscode" />
     <br/>
   </p>
 
