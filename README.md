@@ -1,25 +1,26 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=E4269A&width=435&lines=Hi!+;Welcome+to+my+profile+%3A)" alt="Typing SVG" /></a>
 
 ### About me:
-⚡ I`m Kourosh Eidivandi. <br/>
-🌱 I’m currently learning React JS and basic topics of TypeScript <br/>
+⚡ I'm Kourosh Eidivandi. <br/>
+🌱 I‍‍'m currently deeply learning React JS, Next JS, and TypeScript." <br/>
 💬 Ask me about teamWork and open-source projects
 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/kouroshey) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kouroshey) 
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=linkedin&logoColor=white)](https://t.me/kouroshey) 
 
 
 **Skill & Tools**
   <p align="center">
   <img src="https://skillicons.dev/icons?i=html" />
     <br/>
-  <img src="https://skillicons.dev/icons?i=js,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,css" />
     <br/>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,redux" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,redux,angular" />
     <br/>
-  <img src="https://skillicons.dev/icons?i=firebase,bootstrap,sass,vite,git,github" />
+  <img src="https://skillicons.dev/icons?i=firebase,bootstrap,sass,vite,git,github,aws" />
     <br/>
   </p>
 
