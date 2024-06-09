@@ -18,9 +18,9 @@
     <br/>
   <img src="https://skillicons.dev/icons?i=js,ts,css" />
     <br/>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,redux,angular" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,redux,angular,bootstrap,sass" />
     <br/>
-  <img src="https://skillicons.dev/icons?i=firebase,bootstrap,sass,vite,git,github,aws" />
+  <img src="https://skillicons.dev/icons?i=firebase,vite,git,github,aws,supabase,vscode" />
     <br/>
   </p>
 
