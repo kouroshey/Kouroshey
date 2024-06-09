@@ -22,7 +22,7 @@
     <br/>
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass,css" />
     <br/>
-  <img src="https://skillicons.dev/icons?i=,redux,vite,git" />
+  <img src="https://skillicons.dev/icons?i=redux,vite,git" />
     <br/>
   <img src="https://skillicons.dev/icons?i=github,aws" />
     <br/>
