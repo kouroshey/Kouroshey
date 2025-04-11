@@ -2,7 +2,8 @@
 
 ### About me:
 ⚡ I'm Kourosh <br/>
-🌱 I‍‍'m currently deeply learning React JS, Next JS, and TypeScript" <br/>
+🌱 I‍‍'m Front End Developer <br/>
+🔭 Currently Working on my Web3 and Blockchain skills <br/>
 💬 Ask me about teamWork and open-source projects
 
 
