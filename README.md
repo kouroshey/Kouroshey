@@ -1,5 +1,4 @@
-### About me:
-🔭 Currently Working on my Web3 and Blockchain skills <br/>
+Currently Working on my Web3 and Blockchain skills <br/>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/kouroshey) 
