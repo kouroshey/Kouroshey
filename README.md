@@ -15,7 +15,7 @@ Currently Working on my Web3 and Blockchain skills <br/>
     <br/>
   <img src="https://skillicons.dev/icons?i=github,git,vite" />
     <br/>
-  <img src="https://skillicons.dev/icons?i=zustand" />
+  <img src="https://skillicons.dev/icons?i=docker" />
     <br/>
   </p>
 
