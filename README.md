@@ -11,13 +11,11 @@ Currently Working on my Web3 and Blockchain skills <br/>
     <br/>
   <img src="https://skillicons.dev/icons?i=js,ts" />
     <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux" />
     <br/>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass,css" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,css,tailwind,sass" />
     <br/>
-  <img src="https://skillicons.dev/icons?i=redux,vite,git" />
-    <br/>
-  <img src="https://skillicons.dev/icons?i=github,aws" />
+  <img src="https://skillicons.dev/icons?i=github,git,vite" />
     <br/>
   <img src="https://skillicons.dev/icons?i=vscode" />
     <br/>
