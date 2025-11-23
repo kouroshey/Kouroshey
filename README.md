@@ -1,3 +1,5 @@
+![GitHub Profile Views](https://gitviews.com/user/kouroshey.svg)
+
 Currently Working on my Web3 and Blockchain skills <br/>
 
 ## 🌐 Socials:
