@@ -29,4 +29,9 @@ Backend & Web3
 
 📫 Connect with Me
 <p align="center"> <a href="https://discordapp.com/users/kouroshey"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> </a> <a href="https://t.me/kouroshey"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> </a> <a href="https://linkedin.com/in/kouroshey"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/kouroshey"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/> </p>
+
+---
+
 [![Profile Views](https://gitviews.com/user/kouroshey.svg)](https://github.com/kouroshey/gitviews)
+[![Repo Views](https://gitviews.com/user/kouroshey/repos.svg)](https://github.com/kouroshey/gitviews)
+
