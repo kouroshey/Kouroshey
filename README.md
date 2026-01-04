@@ -21,7 +21,7 @@ currently_learning: ["Advanced Web3", "Blockchain Architecture", "Rust", "Smart 
 
 🛠️ Tech Stack
 Frontend
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,zustand,tailwind,bootstrap" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,vite,tailwind,vitest" /> </p>
 Backend & Web3
 <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,rust,solidity,docker,git,github" /> </p>
 
