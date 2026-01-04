@@ -16,15 +16,35 @@ Currently sharpening my Web3 and Blockchain skills while building decentralized 
 ---
 
 ## 🛠️ Skills & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,bootstrap,tailwind" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,git,vite" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=rust,solidity,docker" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust" height="40" />
+  <img src="https://skillicons.dev/icons?i=solidity" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" />
+</p>
+
 
 ---
 
