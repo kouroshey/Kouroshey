@@ -15,7 +15,7 @@ past_experiences:
   - ["Frontend Developer", "Government Service Apps (PWA/TWA)", "Iran", "2024-2025"]
   - ["Frontend Developer", "Houshyar24 AI Platform", "Remote", "2025"]
 fields_of_interests: ["Web3 & Blockchain", "DeFi Protocols", "DEX Development", "AI Integration"]
-technical_background: ["React/Next.js Architecture", "State Management", "Performance Optimization", "Web3 Integration"]
+technical_background: ["React/Next.js Architecture", "Performance Optimization", "Web3 Integration"]
 currently_learning: ["Advanced Web3", "Blockchain Architecture", "Rust", "Smart Contracts"]
 ```
 
