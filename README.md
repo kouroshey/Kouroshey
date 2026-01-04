@@ -45,8 +45,6 @@ past_experiences:
 fields_of_interests: ["Web3 & Blockchain", "DeFi Protocols", "DEX Development", "AI Integration"]
 technical_background: ["React/Next.js Architecture", "State Management", "Performance Optimization", "Web3 Integration"]
 currently_learning: ["Advanced Web3", "Blockchain Architecture", "Rust", "Smart Contracts"]
-will_learn: ["ZK-Proofs", "Layer 2 Solutions"]
-hobbies: ["Technology Research", "Open Source", "Fitness", "Competitive Gaming"]
 ```
 
 🛠️ Tech Stack
@@ -54,24 +52,6 @@ Frontend
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,zustand,tailwind,bootstrap" /> </p>
 Backend & Web3
 <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,rust,solidity,docker,git,github" /> </p>
-📈 GitHub Stats
-<div align="center">
-General Stats
-<a href="https://github.com/kouroshey"> <img src="https://github-readme-stats.vercel.app/api?username=kouroshey&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true&hide_title=true" alt="Kourosh's github stats" /> </a>
-Most Used Languages
-<a href="https://github.com/kouroshey"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouroshey&langs_count=5&theme=blue-green&hide_border=true&layout=compact" /> </a></div>
 
-<!--START_SECTION:activity-->
-🗣 Commented on #23 in anmol098/waka-readme-stats
-
-🎉 Merged PR #22 in JacopoPan/aerial-autonomy-stack
-
-❌ Closed PR #1 in guilyx/aerial-autonomy-stack
-
-💪 Opened PR #1 in guilyx/aerial-autonomy-stack
-
-🗣 Commented on #22 in JacopoPan/aerial-autonomy-stack
-
-<!--END_SECTION:activity--><!-- Note: You'll need to set up GitHub Actions to generate the wakatime and activity sections -->
 📫 Connect with Me
 <p align="center"> <a href="https://discordapp.com/users/kouroshey"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> </a> <a href="https://t.me/kouroshey"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> </a> <a href="https://linkedin.com/in/kouroshey"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/kouroshey"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/> </p> ```
