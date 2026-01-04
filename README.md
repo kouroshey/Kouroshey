@@ -1,8 +1,3 @@
-[![Actions Status](https://github.com/kouroshey/kouroshey/workflows/wakatime-stats/badge.svg)](https://github.com/kouroshey/kouroshey/actions)
-[![Actions Status](https://github.com/kouroshey/kouroshey/workflows/update-gh-activity/badge.svg)](https://github.com/kouroshey/kouroshey/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=kouroshey.kouroshey)
-![GitHub Profile Views](https://gitviews.com/user/kouroshey.svg)
-
 <p align="center">
   <img src="https://socialify.git.ci/kouroshey/kouroshey/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="kouroshey" width="700" height="300" />
 </p>
@@ -33,4 +28,4 @@ Backend & Web3
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kouroshey&theme=github-dark-dimmed&custom_title=Kouroshey%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 📫 Connect with Me
-<p align="center"> <a href="https://discordapp.com/users/kouroshey"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> </a> <a href="https://t.me/kouroshey"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> </a> <a href="https://linkedin.com/in/kouroshey"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/kouroshey"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/> </p> ```
+<p align="center">![GitHub Profile Views](https://gitviews.com/user/kouroshey.svg) <a href="https://discordapp.com/users/kouroshey"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> </a> <a href="https://t.me/kouroshey"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> </a> <a href="https://linkedin.com/in/kouroshey"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/kouroshey"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/> </p> ```
