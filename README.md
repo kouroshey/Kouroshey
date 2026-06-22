@@ -5,10 +5,11 @@
 ```yaml
 name: Kourosh Eydivandi
 located_in: Tehran, Iran
-job: Frontend / Fullstack Developer
+job: Frontend / Backend / Mobile Developer
 education: ["B.Sc. in Software Engineering (in progress)"]
 company: Rabits Team (Team Lead & Frontend Developer)
-past_experiences:
+experiences:
+  - ["Frontend / Android Developer", "StartDone", "Full-Time", "2026-present"]
   - ["Fullstack Developer", "Swappic DEX Platform", "Remote", "2025-2026"]
   - ["Frontend Developer", "Swappic Global DEX", "Remote", "2024-2025"]
   - ["Frontend Developer", "Toseegaran Mobtaker", "Remote", "2024-2026"]
@@ -22,8 +23,10 @@ currently_learning: ["Advanced Web3", "Blockchain Architecture", "Rust", "Smart 
 🛠️ Tech Stack
 Frontend
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,vite,tailwind,vitest" /> </p>
-Backend & Web3
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,rust,solidity,docker,git,github" /> </p>
+Backend
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,hono,drizzle,postgresql,graphql,docker" /> </p>
+Web3
+<p align="center"> <img src="https://skillicons.dev/icons?i=rust,solidity,dfinity,motoko" /> </p>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kouroshey&theme=github-dark-dimmed&custom_title=Kouroshey%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
